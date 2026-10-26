@@ -75,3 +75,14 @@ Sensor readings may vary with lighting, surface reflectivity, and line contrast.
 **Application:** Autonomous Robotics and Embedded Systems
 
 This project was developed as part of an academic laboratory experiment in autonomous robot navigation.
+
+##  Circuit & Hardware Diagrams
+
+### Circuit Diagram
+![Circuit Diagram](Circuit_Diagram.png)
+
+### Pin Connection Summary
+![Pin Connection Summary](Pin_Connection_Summary.png)
+
+### Hardware Setup (Top View)
+![Line Follower Robot](Line%20Follower%20Robot%20%28Top%20View%29.jpg)
